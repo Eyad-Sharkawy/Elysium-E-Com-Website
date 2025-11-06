@@ -1,5 +1,42 @@
 # Dependencies
 node_modules/
+
+# Builds / Outputs
+.dist/
+dist/
+.next/
+.out/
+build/
+coverage/
+
+# Env files
+.env
+.env.*
+
+# Caches
+.cache/
+.parcel-cache/
+.npm/
+.yarn/
+.pnpm-store/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editors/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Misc
+*.local
+
+# Dependencies
+node_modules/
 .pnp
 .pnp.js
 
